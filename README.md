@@ -53,7 +53,7 @@
   │                         ↓                                │
   │   Phase 5: 内容营销                                     │
   │   ┌─────────────────────────────────────────────────┐   │
-  │   │  #12 视频内容分析      #13 口头表达分析           │   │
+  │   │  #12 视频内容拆解      #13 口头表达分析           │   │
   │   └─────────────────────────────────────────────────┘   │
   │                                                         │
   └─────────────────────────────────────────────────────────┘
@@ -98,7 +98,7 @@
 
 | # | Skill | 做什么 | 触发词 |
 |---|-------|--------|--------|
-| 12 | **video-content-miner** | 短视频口播提取、内容结构分析、爆款公式 | "抖音文案"、"视频分析" |
+| 12 | **video-content-analyzer** | 爆款结构拆解、钩子/骨架/收口分析、公式提炼 | "爆款拆解"、"内容结构分析" |
 | 13 | **speech-analyzer** | 20维度口头表达分析、表达质量量化 | "直播分析"、"口才评估" |
 
 ---
@@ -167,7 +167,7 @@ product-development-skill-suite/
 |-------|----------|------|
 | #08 项目复盘 | [project-retrospective](https://github.com/shiyan521/project-retrospective) | 独立复盘工具 |
 | #09 流程记录 | [process-keeper](https://github.com/shiyan521/process-keeper) | 独立流程记录工具 |
-| #12 视频内容分析 | [douyin-video-transcript](https://github.com/shiyan521/douyin-video-transcript) | 抖音文案提取工具 |
+| #12 视频内容拆解 | [douyin-video-transcript](https://github.com/shiyan521/douyin-video-transcript) | 逐字稿采集工具（#12 分析层的上游） |
 | #13 口头表达分析 | [livestream-expression-analyzer](https://github.com/shiyan521/livestream-expression-analyzer) | 20维表达分析系统 |
 
 独立项目包含完整的代码实现和 Web UI，Skill 是 AI Agent 侧的调用入口。
